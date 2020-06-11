@@ -46,6 +46,7 @@ def get_filters():
         (str) month - name of the month(s) to filter
         (str) day - name of the day(s) of week to filter
     """
+    print("\nHello, Hope your are doing well\n")	
 
     print("\n\nLet's explore some US bikeshare data!\n")
 
