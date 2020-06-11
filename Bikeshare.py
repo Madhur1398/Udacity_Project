@@ -62,7 +62,7 @@ def get_filters():
         day = choice("\nFor what weekday(s) do you want do filter bikeshare "
                      "data? Use commas to list the names.\n>", weekdays)
 
-        # confirm the user input
+        # confirmation of the user input
         confirmation = choice("\nPlease confirm that you would like to apply "
                               "the following filter(s) to the bikeshare data."
                               "\n\n City(ies): {}\n Month(s): {}\n Weekday(s)"
